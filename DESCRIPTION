@@ -1,0 +1,18 @@
+Package: NBASeasonStats
+Title: Extracts useful information from NBA dataset
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Arsalan",
+           family = "Khan",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains functions that are used to query a dataset for Season Stats for the NBA. Each of the functions takes in a year argument and uses that to filter the dataset to that specific year and extracts useful stats for that year
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)

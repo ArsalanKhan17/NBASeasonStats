@@ -2,7 +2,7 @@
 #'
 #' This function allows you to enter a year and filter using that year and creates a correlation matrix only numeric variables
 #' @param year which year do you want the player's name for?
-#' @keywords
+#' @keywords numeric
 #' @export
 #' @examples
 #' Numeric_Only()

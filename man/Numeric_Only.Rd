@@ -15,3 +15,4 @@ This function allows you to enter a year and filter using that year and creates 
 \examples{
 Numeric_Only()
 }
+\keyword{numeric}

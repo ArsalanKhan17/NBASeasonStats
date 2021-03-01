@@ -15,3 +15,4 @@ This function allows you to enter a year and extract the name of the player with
 \examples{
 Year_function()
 }
+\keyword{max}

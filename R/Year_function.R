@@ -2,7 +2,7 @@
 #'
 #' This function allows you to enter a year and extract the name of the player with the highest Free throw percentage for that year.
 #' @param year which year do you want the player's name for?
-#' @keywords
+#' @keywords max
 #' @export
 #' @examples
 #' Year_function()
